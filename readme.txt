@@ -4,3 +4,4 @@ change again
 
 what is stage??
 git tracks changes
+git tracks second changes 
